@@ -1,0 +1,6 @@
+model_checkpoint_path: "agcn_survival_backbone_ep80"
+all_model_checkpoint_paths: "agcn_survival_backbone_ep40"
+all_model_checkpoint_paths: "agcn_survival_backbone_ep50"
+all_model_checkpoint_paths: "agcn_survival_backbone_ep60"
+all_model_checkpoint_paths: "agcn_survival_backbone_ep70"
+all_model_checkpoint_paths: "agcn_survival_backbone_ep80"
